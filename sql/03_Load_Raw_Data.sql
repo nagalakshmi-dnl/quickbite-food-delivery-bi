@@ -1,0 +1,6 @@
+LOAD DATA LOCAL INFILE 'path_to_dataset/order_history.csv'
+INTO TABLE order_history_raw
+FIELDS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
