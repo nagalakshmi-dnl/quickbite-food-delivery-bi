@@ -82,6 +82,26 @@ The project focuses on answering key business questions:
              & Recommendations
 
 ```
+---
+
+## 📊 Power BI Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](powerbi/dashboard_screenshots/01_executive_overview.PNG)
+
+### 2. Revenue & Sales Analysis
+![Revenue & Sales Analysis](powerbi/dashboard_screenshots/02_revenue_sales_analysis.PNG)
+
+### 3. Customer & Operations
+![Customer & Operations](powerbi/dashboard_screenshots/03_customer_operations.PNG)
+
+### 4. Delivery Performance
+![Delivery Performance](powerbi/dashboard_screenshots/04_delivery_performance.PNG)
+
+### 5. Business Insights & Recommendations
+![Business Insights](powerbi/dashboard_screenshots/05_business_insights.PNG)
+
+---
 
 ## 📚 Project Documentation
 
