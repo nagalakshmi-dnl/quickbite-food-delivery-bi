@@ -81,6 +81,8 @@ The project focuses on answering key business questions:
              Business Insights
              & Recommendations
 
+```
+
 ## 📚 Project Documentation
 
 - [Data Dictionary](documentation/data_dictionary.md)
