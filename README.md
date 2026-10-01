@@ -80,3 +80,10 @@ The project focuses on answering key business questions:
                          ▼
              Business Insights
              & Recommendations
+
+## 📚 Project Documentation
+
+- [Data Dictionary](documentation/data_dictionary.md)
+- [Data Pipeline](documentation/data_pipeline.md)
+- [DAX Measures](documentation/dax_measures.md)
+- [Data Quality Notes](documentation/data_quality_notes.md)
