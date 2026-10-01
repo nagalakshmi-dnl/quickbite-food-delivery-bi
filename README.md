@@ -102,6 +102,18 @@ The project focuses on answering key business questions:
 ![Business Insights](powerbi/dashboard_screenshots/05_business_insights.PNG)
 
 ---
+## 🔍 Key Business Insights
+
+- **Revenue Performance:** Aura Pizzas contributes the largest share of revenue, followed by Swaad, highlighting the concentration of sales among the leading restaurants.
+- **Customer Feedback:** Customer complaints are concentrated primarily in Aura Pizzas and Swaad, indicating areas for targeted service-quality improvement.
+- **Operational Efficiency:** Kitchen preparation time varies across restaurants, with peak-hour preparation taking slightly longer than during normal hours.
+- **Discount Impact:** Discount spending varies considerably by restaurant. Evaluating discounts alongside revenue and order volume can help identify opportunities to improve promotional efficiency.
+- **Delivery Performance:** Delivery distance varies across restaurants, and reviewing distance alongside kitchen preparation time and rider wait time can help identify operational improvement opportunities.
+- **Order Outcomes:** The dataset shows a high delivery success rate, while cancellation reasons provide further opportunities to investigate order fulfilment issues.
+
+*These insights are based on the analyzed dataset and are descriptive findings, not evidence of causal relationships.*
+
+---
 
 ## 📚 Project Documentation
 
